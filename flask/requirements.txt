@@ -1,0 +1,6 @@
+Flask
+plotly
+dash
+cassandra-driver
+pandas
+geopandas

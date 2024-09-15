@@ -1,0 +1,10 @@
+cassandra-driver
+pyspark
+kafka-python
+requests
+apache-airflow
+pandas
+ta
+PyArrow
+ccxt
+backoff
